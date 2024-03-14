@@ -385,6 +385,7 @@ footer .line-footer .txt-rodape p{
 
     .btn-social{
         text-align: center;
+        text-decoration: none;
     }
     .img-sobre img{
         width: 100%;
