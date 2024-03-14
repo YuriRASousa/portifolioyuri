@@ -247,6 +247,7 @@ section.sobre .flex{
     cursor: pointer;
     margin: 0 5px;
     transition: .2s;
+    text-decoration: none;
 }
 /* estilo do portifolio */
 section.portifolio{
